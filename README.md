@@ -2,6 +2,7 @@ WARNING
 =======
 
 *Bundle is still in development.*
+Fork  [https://github.com/agentsib/crypto-bundle](https://github.com/agentsib/crypto-bundle)
 
 Installation
 ============
@@ -12,7 +13,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```console
-$ composer require agentsib/crypto-bundle
+$ composer require zavodnoyapl/crypto-bundle
 ```
 
 This command requires you to have Composer installed globally, as explained
